@@ -1,36 +1,37 @@
 # Lab 01 Answers
 ## CIA & Risk: Hệ thống lưu điểm
 
-**Họ và tên:** ........................................
+**Họ và tên:** Trần Duy Tuấn
 
-**MSSV:** .............................................
+**MSSV:** 1876102004
 
-**Lớp/Nhóm:** .........................................
+**Lớp/Nhóm:** CNTT 18-01
 
 ---
 
 ## 1. Assets
 Liệt kê ít nhất 2 assets cần bảo vệ.
 
-- Asset 1:
-- Asset 2:
-- Asset 3 (nếu có):
+- Asset 1:Cơ sở dữ liệu điểm số (Grade Database): Chứa dữ liệu quan trọng nhất của hệ thống.
+
+
+- Asset 2: Thông tin định danh người dùng (User Credentials): Tài khoản và mật khẩu của giảng viên và sinh viên.
 
 ---
 
 ## 2. Mapping CIA
 Ghép từng sự cố với CIA.
 
-- Sự cố A ->
-- Sự cố B ->
+- Sự cố A -> 
+- Sự cố B -> 
 - Sự cố C ->
 
 ---
 
 ## 3. Phân tích sự cố B
-- Threat:
-- Vulnerability:
-- Mitigation:
+- Threat: 
+- Vulnerability: 
+- Mitigation:   
 
 ---
 
