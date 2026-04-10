@@ -6,6 +6,7 @@
 - [ ] 15:10 - Clone repo về máy
 - [ ] 15:22 - Đọc đề bài điền thông tin và xác định assets
 - [ ] 15:23 - Hoàn thành CIA mapping
+- [ ] 15:26 - Viết threat / vulnerability / mitigation
 ## Ghi chú thêm
 - Khó khăn gặp phải:
 - Cách em xử lý:

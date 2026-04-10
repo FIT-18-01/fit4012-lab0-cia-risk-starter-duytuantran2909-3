@@ -29,9 +29,9 @@ Ghép từng sự cố với CIA.
 ---
 
 ## 3. Phân tích sự cố B
-- Threat: 
-- Vulnerability: 
-- Mitigation:   
+- Threat: Kẻ tấn công chiếm quyền điều khiển tài khoản giảng viên hoặc người nội bộ cố tình thay đổi dữ liệu trái phép.
+- Vulnerability: Hệ thống thiếu cơ chế xác thực đa yếu tố (MFA) hoặc không có hệ thống ghi nhật ký (Audit Logs) để theo dõi các thao tác chỉnh sửa điểm.
+- Mitigation: Triển khai xác thực 2 lớp (MFA) cho tài khoản giảng viên và xây dựng hệ thống Logging ghi lại chi tiết: ai sửa, sửa lúc nào, giá trị cũ và mới. 
 
 ---
 
