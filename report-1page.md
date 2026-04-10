@@ -29,5 +29,4 @@
 - Mitigation: Triển khai xác thực 2 lớp (MFA) cho tài khoản có quyền ghi và thiết lập Logging ghi lại chi tiết lịch sử thay đổi dữ liệu (ai sửa, sửa lúc nào).
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
 Qua bài lab này, em đã nắm vững quy trình làm việc với Git/GitHub và hiểu rằng An toàn thông tin là sự phối hợp chặt chẽ giữa cả ba yếu tố CIA. Phần khó nhất là việc xác định chính xác các Vulnerability tiềm ẩn từ một sự cố thực tế. Bài học quan trọng nhất là khi thiết kế hệ thống, cần chú trọng đến tính toàn vẹn (Integrity) và phải có cơ chế ghi log đầy đủ để có thể ứng phó và xử lý khi sự cố xảy ra.
