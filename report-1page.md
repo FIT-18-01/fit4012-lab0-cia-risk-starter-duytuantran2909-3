@@ -15,18 +15,19 @@
 
 ### 3. Kết quả chính
 **Assets:**
-- 
-- 
+- Cơ sở dữ liệu điểm số: Lưu trữ kết quả học tập của toàn bộ sinh viên, là tài sản quan trọng nhất.
+- Hệ thống xác thực người dùng: Bao gồm thông tin tài khoản (ID, mật khẩu) của giảng viên và sinh viên để kiểm soát quyền truy cập.
 
 **CIA mapping:**
-- Sự cố A -> 
-- Sự cố B -> 
-- Sự cố C -> 
+- Sự cố A -> Availability: Hệ thống bị gián đoạn, sinh viên không thể truy cập dịch vụ khi cần.
+- Sự cố B -> Integrity: Dữ liệu điểm bị thay đổi sai lệch so với thực tế, làm mất tính toàn vẹn.
+- Sự cố C -> Confidentiality: Thông tin riêng tư bị rò rỉ ra bên ngoài cho những người không có thẩm quyền.
 
 **Phân tích sự cố B:**
-- Threat: 
-- Vulnerability: 
-- Mitigation: 
+- Threat: Kẻ tấn công (Hacker) chiếm quyền tài khoản hoặc người nội bộ (Insider) cố tình chỉnh sửa dữ liệu trái phép.
+- Vulnerability: Hệ thống thiếu cơ chế xác thực đa yếu tố (MFA) và không có hệ thống ghi nhật ký (Audit Log) để truy vết thao tác.
+- Mitigation: Triển khai xác thực 2 lớp (MFA) cho tài khoản có quyền ghi và thiết lập Logging ghi lại chi tiết lịch sử thay đổi dữ liệu (ai sửa, sửa lúc nào).
 
 ### 4. Kết luận ngắn
 (4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
+Qua bài lab này, em đã nắm vững quy trình làm việc với Git/GitHub và hiểu rằng An toàn thông tin là sự phối hợp chặt chẽ giữa cả ba yếu tố CIA. Phần khó nhất là việc xác định chính xác các Vulnerability tiềm ẩn từ một sự cố thực tế. Bài học quan trọng nhất là khi thiết kế hệ thống, cần chú trọng đến tính toàn vẹn (Integrity) và phải có cơ chế ghi log đầy đủ để có thể ứng phó và xử lý khi sự cố xảy ra.

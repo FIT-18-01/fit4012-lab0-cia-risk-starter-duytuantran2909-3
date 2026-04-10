@@ -8,6 +8,8 @@
 - [ ] 15:23 - Hoàn thành CIA mapping
 - [ ] 15:26 - Viết threat / vulnerability / mitigation
 - [ ] 15:30 - Viết Reflection, Bonus
+- [ ] 15:34 - Hoàn thiện báo cáo report-1page.md và kiểm tra tổng thể.
+- [ ] 15:38 - Push repo và kiểm tra link nộp
 ## Ghi chú thêm
 - Khó khăn gặp phải: sử dụng github
 - Cách em xử lý: tham khảo trên mạng
