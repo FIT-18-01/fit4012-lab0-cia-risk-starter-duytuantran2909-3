@@ -7,7 +7,8 @@
 - [ ] 15:22 - Đọc đề bài điền thông tin và xác định assets
 - [ ] 15:23 - Hoàn thành CIA mapping
 - [ ] 15:26 - Viết threat / vulnerability / mitigation
+- [ ] 15:30 - Viết Reflection, Bonus
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: sử dụng github
+- Cách em xử lý: tham khảo trên mạng
+- Điều em học được từ bài lab: các khái niệm cơ bản và sử dụng github để làm bài tập

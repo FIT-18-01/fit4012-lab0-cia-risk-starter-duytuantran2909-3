@@ -37,7 +37,7 @@ Ghép từng sự cố với CIA.
 
 ## 4. Reflection
 Viết 5-7 dòng.
-
+Nếu là quản trị viên, em sẽ ưu tiên xử lý Sự cố B (Integrity) trước. Bởi vì tính toàn vẹn của dữ liệu điểm là giá trị cốt lõi của hệ thống này. Nếu điểm số bị thay đổi mà không thể kiểm soát, hệ thống sẽ mất hoàn toàn uy tín và gây hậu quả nghiêm trọng cho sinh viên. Tiếp theo sẽ là sự cố C để bảo vệ quyền riêng tư, và cuối cùng là sự cố A để khôi phục dịch vụ.
 
 
 ---
@@ -46,4 +46,5 @@ Viết 5-7 dòng.
 `FIT4012{A-?-B-?-C-?}`
 
 Flag của em:
+FIT4012{A-A-B-I-C-C}
 
