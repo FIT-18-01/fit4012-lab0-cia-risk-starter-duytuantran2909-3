@@ -22,9 +22,9 @@ Liệt kê ít nhất 2 assets cần bảo vệ.
 ## 2. Mapping CIA
 Ghép từng sự cố với CIA.
 
-- Sự cố A -> 
-- Sự cố B -> 
-- Sự cố C ->
+- Sự cố A -> Một số sinh viên không đăng nhập được -> Availability (A)
+- Sự cố B -> Điểm của một sinh viên bị đổi từ 8.0 thành 5.0 ->Integrity (I)
+- Sự cố C -> Danh sách điểm bị lộ ra ngoài nhóm chat ->Confidentiality (C)
 
 ---
 
